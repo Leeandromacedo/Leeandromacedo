@@ -51,7 +51,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Leeandromacedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/leeandromacedo)](linkedin.com/in/leeandromacedo)
+[![Linkedin](https://img.shields.io/badge/-Leeandromacedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
 [![Gmail Badge](https://img.shields.io/badge/-leeandromacedo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeandromacedo@gmail.com)](mailto:leeandromacedo@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/leeandromacedo?label=follow&style=social)](https://github.com/Leeandromacedo)
 --->
